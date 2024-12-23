@@ -1,0 +1,1 @@
+The real-time path planning animation video demonstration for the paper **"Real-time dynamic path planning for distributed unmanned surface vehicles in coordinated formations with maneuverability constraints"**
